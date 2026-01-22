@@ -2,24 +2,22 @@
 
 Formal Languages &amp; Automata Project (Python, Lex/Yacc, DFA/NFA, Minimization)
 
-## Overview
-This project was developed as part of a **Theory of Languages / Compilation** course.
-It focuses on the implementation of **finite automata** and **regular expressions**, combining
-theoretical concepts with practical tools.
+## Project Objective
 
-The project includes:
-- Construction of automata from regular expressions
-- Handling of ε-transitions
-- Determinization, completion, and minimization of automata
-- Equivalence checking between automata
-- Use of **Lex & Yacc** for lexical and syntactic analysis
-- A complete compilation workflow via a Makefile
+The goal of this project is to determine whether **two regular expressions are equivalent**
+by proving that they recognize the **same language**.
 
-## Technologies & Tools
-- **Python** (automata manipulation and algorithms)
-- **Lex / Yacc**
-- **Makefile**
-- Formal language theory (DFA, NFA, ε-NFA)
+This is achieved by:
+1. Translating each regular expression into a finite automaton
+2. Handling ε-transitions
+3. Determinizing the automata (subset construction)
+4. Completing the automata with a sink state
+5. Minimizing the resulting deterministic automata
+6. Checking equivalence between the final automata
+
+If the resulting deterministic complete automata are equivalent, then the two regular
+expressions are proven to be equivalent.
+
 
 ## Project Structure
 
