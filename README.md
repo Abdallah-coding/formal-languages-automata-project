@@ -22,13 +22,21 @@ expressions are proven to be equivalent.
 ## Project Structure
 
 theory-of-languages-automata/
+
 ├── README.md
+
 ├── Project_Specification.pdf
+
 ├── Makefile
+
 ├── python/
+
 │ └── automate.py
+
 ├── lex_yacc/
+
 │ ├── regexp.l
+
 │ └── regexp.y
 
 ## Key Features
