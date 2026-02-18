@@ -1,4 +1,4 @@
-# Formal Languages & Automata – Academic Project
+# Formal Languages & Automata (Academic Project)
 
 Formal Languages &amp; Automata Project (Python, Lex/Yacc, DFA/NFA, Minimization)
 
@@ -49,7 +49,7 @@ theory-of-languages-automata/
 - Language equivalence checking
 
 ## Academic Context
-This project was carried out during the **third year (L3) of a Computer Science degree** and
+This project was carried out during the third year (L3) of a Computer Science degree and
 demonstrates the application of **theoretical computer science concepts** in a concrete implementation.
 
 ## Author
