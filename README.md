@@ -53,4 +53,4 @@ This project was carried out during the third year (L3) of a Computer Science de
 demonstrates the application of **theoretical computer science concepts** in a concrete implementation.
 
 ## Author
-Abdallah Benzoubir
+Abdallah-coding
